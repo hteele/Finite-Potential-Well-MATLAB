@@ -37,24 +37,6 @@ Since $z_0 \approx \frac{3\pi}{2}$, this configuration supports **3 bound states
 
 ## Wave Vectors
 
-## Dimensionless Depth Parameter
-
-The dimensionless parameter $z_0$ governs the number of bound states:
-
-$$
-z_0 = \frac{a}{\hbar} \sqrt{2mV_0}
-$$
-
-With default values:
-
-$$
-z_0 = \frac{2 \times 10^{-9}}{1.055 \times 10^{-34}} \sqrt{2 \times (1.445 \times 10^{-25}) \times (1.6 \times 10^{-25})} \approx 4.07
-$$
-
-Since $z_0 \approx \frac{3\pi}{2}$, this configuration supports **3 bound states** (2 even, 1 odd).
-
-## Wave Vectors
-
 These are used to solve transcendental equations for bound-state energy levels:
 
 - **Wave vector inside the well**:
